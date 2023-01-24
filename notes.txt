@@ -1,0 +1,12 @@
+###
+1. Create a simple note taking application using the Python programming 
+language. 
+2. Every note should have note title and note content. 
+3. Follow the structure below for your note data: 
+    - note_title
+    - note_content
+    - note_author_name
+    - date_created
+
+4. Note that you must have a 'notes' table and 'users' table. 
+5. A user must be authenticated before creating new note.
